@@ -91,15 +91,12 @@ class CompanyController extends Controller
         if ($request->hasFile('logo')) {
             $logo = $request->file('logo');
 
-            $path = $logo->store('public');
-
-            $fileName = basename($path);
-
-            $company->logo = $fileName;
+            $logoPath = $logo->store('public/logos');
+            $company->logo = Storage::url($logoPath);
         }
 
         $company->save();
-        return response()->json(['message' => 'Company updated successfully']);
+        return response()->json(['message' => 'Company updated successfully','companu'=>$company]);
     }
 
     /**

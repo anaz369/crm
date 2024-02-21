@@ -1,0 +1,8 @@
+[13-Nov-2023 15:18:57 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:18:58 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:18:58 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:18:59 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:19:50 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:19:51 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[13-Nov-2023 15:19:51 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Home::new_ticket() in /home/signinqatar/public_html/lead-crm/app/Controllers/Home.php on line 1348
+[16-Nov-2023 12:08:11 UTC] PHP Fatal error:  Cannot redeclare App\Models\MyModel::select_all_leads() in /home/signinqatar/public_html/lead-crm/app/Models/MyModel.php on line 1096

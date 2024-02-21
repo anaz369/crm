@@ -87,7 +87,7 @@
                                 <div class="containers">
                                     <div class="item">
                                         <div>
-                                            <h6 class="text-white text-capitalize ps-3">All Lead </h6>
+                                            <h6 class="text-white text-capitalize ps-3">All Leadssssssssss </h6>
                                         </div>
                                     </div>
                                     <div class="divider"></div>
